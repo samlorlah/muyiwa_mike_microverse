@@ -1,0 +1,9 @@
+#features {
+    display: flex;
+}
+
+@media screen and (min-width: 500px) {
+    #features {
+        background-color: #000;
+    }
+}
