@@ -7,3 +7,25 @@
         background-color: #000;
     }
 }
+
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin: auto;
+}
+
+#email, #submit{
+    border-radius: 8px;
+}
+
+#email{
+    margin-bottom: 1rem;
+    height: 2rem;
+}
+
+#submit{
+    height: 1.6rem;
+    background-color: #F1C40F;
+    border: none;
+}
